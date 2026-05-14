@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Narumedsr Pitayachamrat
 
 - 🎓 I'm currently studying Computer Engineering at Chulalongkorn University.
-- 💡 I have a strong interest in Artificial Intelligence and Backend Development.
+- 💡 I have a strong interest in Backend Development and Infrastructure.
+- [More About me](https://narumedsr-p.github.io)
 
 ## 💼 Project
 
-- [Task Management](https://github.com/Nayac08/Task-Management) Application developed with OOP in Java
+- [Task Management](https://narumedsr-p.github.io/projects/task-management) A JavaFX desktop application for managing team and personal work schedules
+- [Buddy & Budder CP51](https://narumedsr-p.github.io/projects/buddy-budder) A social game website for 100 CP51 students
+- [Portfolio Website](https://narumedsr-p.github.io/projects/sample-project) Personal portfolio built with Astro and Tailwind CSS. Deployed to GitHub Pages. 
 
 ## 💻 Programming Languages
 
@@ -15,14 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="30" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="30" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30" />
-</p>
-
-## ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js Logo" width="30" height="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="30" height="30" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="30" height="30" />
 </p>
 
 ## 🧰 Tools & Platforms
